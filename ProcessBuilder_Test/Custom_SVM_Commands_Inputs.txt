@@ -1,0 +1,2 @@
+python ML_Pyhton_Programs\My_Custom_SVM_Implementation.py < python_Custom_SVM_Inputs.txt > python_Custom_SVM_Outputs.txt
+exit

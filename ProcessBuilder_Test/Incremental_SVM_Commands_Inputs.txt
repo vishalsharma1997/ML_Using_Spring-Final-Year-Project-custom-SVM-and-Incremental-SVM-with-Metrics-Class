@@ -1,0 +1,2 @@
+python ML_Pyhton_Programs\Incremental_SVM_Implementation.py < python_Incremental_SVM_Inputs.txt > python_Incremental_SVM_Outputs.txt
+exit

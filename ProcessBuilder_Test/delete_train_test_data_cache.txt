@@ -1,0 +1,6 @@
+del Custom_SVM_Commands_Errors_Log.txt
+del Custom_SVM_Commands_Output.txt
+del Incremental_SVM_Commands_Errors_Log.txt
+del Incremental_SVM_Commands_Output.txt
+del python_Custom_SVM_Outputs.txt
+del python_Incremental_SVM_Outputs.txt
